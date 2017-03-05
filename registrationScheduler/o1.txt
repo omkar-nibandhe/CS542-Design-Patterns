@@ -1,0 +1,81 @@
+Student_1 A B C D E   15
+Student_2 A B C D E   15
+Student_3 A B C D E   15
+Student_4 A B C D E   15
+Student_5 A B C D E   15
+Student_6 A B C D E   15
+Student_7 A B C D E   15
+Student_8 A B C D E   15
+Student_9 A B C D E   15
+Student_10 A B C D E   15
+Student_11 A B C D E   15
+Student_12 A B C D E   15
+Student_13 A B C D E   15
+Student_14 A B C D E   15
+Student_15 A B C D E   15
+Student_16 A B C D E   15
+Student_17 A B C D E   15
+Student_18 A B C D E   15
+Student_19 A B C D E   15
+Student_20 A B C D E   15
+Student_21 A B C D E   15
+Student_22 A B C D E   15
+Student_23 A B C D E   15
+Student_24 A B C D E   15
+Student_25 A B C D E   15
+Student_26 A B C D E   15
+Student_27 A B C D E   15
+Student_28 A B C D E   15
+Student_29 A B C D E   15
+Student_30 A B C D E   15
+Student_31 A B C D E   15
+Student_32 A B C D E   15
+Student_33 A B C D E   15
+Student_34 A B C D E   15
+Student_35 A B C D E   15
+Student_36 A B C D E   15
+Student_37 A B C D E   15
+Student_38 A B C D E   15
+Student_39 A B C D E   15
+Student_40 A B C D E   15
+Student_41 A B C D E   15
+Student_42 A B C D E   15
+Student_43 A B C D E   15
+Student_44 A B C D E   15
+Student_45 A B C D E   15
+Student_46 A B C D E   15
+Student_47 A B C D E   15
+Student_48 A B C D E   15
+Student_49 A B C D E   15
+Student_50 A B C D E   15
+Student_51 A B C D E   15
+Student_52 A B C D E   15
+Student_53 A B C D E   15
+Student_54 A B C D E   15
+Student_55 A B C D E   15
+Student_56 A B C D E   15
+Student_57 A B C D E   15
+Student_58 A B C D E   15
+Student_59 A B C D E   15
+Student_60 A B C D E   15
+Student_61      F G 13
+Student_62      F G 13
+Student_63      F G 13
+Student_64      F G 13
+Student_65      F G 13
+Student_66      F G 13
+Student_67      F G 13
+Student_68      F G 13
+Student_69      F G 13
+Student_70      F G 13
+Student_71      F G 13
+Student_72      F G 13
+Student_73      F G 13
+Student_74      F G 13
+Student_75      F G 13
+Student_76      F G 13
+Student_77      F G 13
+Student_78      F G 13
+Student_79      F G 13
+Student_80      F G 13
+Average Preference Score : 14.5
